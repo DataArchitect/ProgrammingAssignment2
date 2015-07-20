@@ -1,6 +1,6 @@
 ## Caches inverse of matrix to avoid unnecessary recalculation
 
-## makeCacheMatrix accepts a matrix parameter and calculates
+## makeCacheMatrix accepts a matrix parameter and 
 ## stores the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
